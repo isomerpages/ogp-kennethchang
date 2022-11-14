@@ -7,15 +7,10 @@ permalink: /
 notification: Hi, we are currently having maintenance from 20 Apr 2022 to 21 Apr 2022.
 sections:
   - hero:
-      title: ABC
-      subtitle: sdf
-      background: /images/hero-banner.png
-      button: Contact Us
+      title: FormSG (Nov) Office Hours
+      button: feedback
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
         - title: Page A
           description: Page A is important too
           url: /privacy/
@@ -41,4 +36,3 @@ sections:
       description: Infobar description
       button: Button Text
 ---
-

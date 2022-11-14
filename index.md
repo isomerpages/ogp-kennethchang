@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: FormSG Office Hours feedback
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -41,3 +41,4 @@ sections:
       description: Infobar description
       button: Button Text
 ---
+

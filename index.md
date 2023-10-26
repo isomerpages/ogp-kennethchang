@@ -21,18 +21,12 @@ sections:
             url: ""
       background: /images/katt-yukawa-k0e6e0a0r3a-unsplash.jpg
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Support your local hospital
+      subtitle: Your donation matters
       button: Button text
       url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---

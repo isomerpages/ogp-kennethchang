@@ -17,31 +17,7 @@ sections:
             url: ""
           - title: SengKang General Hospital
             url: www.form.gov.sg
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
+          - title: KK Hospital
             url: ""
       background: /images/katt-yukawa-k0e6e0a0r3a-unsplash.jpg
   - infobar:

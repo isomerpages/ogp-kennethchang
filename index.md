@@ -26,4 +26,11 @@ sections:
       title: Beneficiaries
       id: resources
       button: all hospitals
+  - infopic:
+      title: Give and make positve impact
+      id: infopic
+      button: read more
+      url: https://www.singhealth.com.sg/giving
+      image: /images/matheus-ferrero-yfmjalh1s6s-unsplash.jpg
+      alt: Image alt text
 ---

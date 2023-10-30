@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome
 sections:
   - hero:
-      title: SingHealth communities
+      title: SingHealth portal
       dropdown:
         title: Make a donation
         options:

@@ -25,4 +25,5 @@ sections:
   - resources:
       title: Beneficiaries
       id: resources
+      button: all hospitals
 ---

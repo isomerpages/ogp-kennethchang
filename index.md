@@ -21,7 +21,6 @@ sections:
   - infobar:
       title: Support your local hospital
       subtitle: Your donation matters
-      button: Button text
       url: /faq/
   - resources:
       title: Beneficiaries

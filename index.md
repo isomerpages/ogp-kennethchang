@@ -16,9 +16,7 @@ sections:
           - title: Changi General Hospital
             url: https://uat.form.gov.sg/653fd0b56705470011feaf7c
           - title: SengKang General Hospital
-            url: www.form.gov.sg
-          - title: KK Hospital
-            url: ""
+            url: https://uat.form.gov.sg/653fd1583e886d0011c0b075
       background: /images/melanie-lim-nd3wung16fo-unsplash2.jpg
   - infobar:
       title: Support your local hospital

@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: FormSG Office Hours feedback
+title: Donation portal (demo)
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Screenshot 2022-05-31.png
 permalink: /
 notification: Welcome
 sections:

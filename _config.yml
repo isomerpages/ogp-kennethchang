@@ -1,6 +1,6 @@
-title: FormSG Office Hours feedback
+title: Donation portal (demo)
 url: https://www.form.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/singhealth_logo.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,8 +52,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-kennethchang-staging.netlify.app
 prod: https://ogp-kennethchang-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Screenshot 2022-05-31.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

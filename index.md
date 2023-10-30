@@ -18,6 +18,13 @@ sections:
           - title: SengKang General Hospital
             url: https://uat.form.gov.sg/653fd1583e886d0011c0b075
       background: /images/melanie-lim-nd3wung16fo-unsplash2.jpg
+  - infopic:
+      title: Give and make positve impact
+      id: infopic
+      button: read more
+      url: https://www.singhealth.com.sg/giving
+      image: /images/matheus-ferrero-yfmjalh1s6s-unsplash.jpg
+      alt: Image alt text
   - infobar:
       title: Support your local hospital
       subtitle: Your donation matters
@@ -26,11 +33,4 @@ sections:
       title: Beneficiaries
       id: resources
       button: all hospitals
-  - infopic:
-      title: Give and make positve impact
-      id: infopic
-      button: read more
-      url: https://www.singhealth.com.sg/giving
-      image: /images/matheus-ferrero-yfmjalh1s6s-unsplash.jpg
-      alt: Image alt text
 ---

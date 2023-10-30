@@ -14,7 +14,7 @@ sections:
           - title: Singapore General Hospital
             url: https://uat.form.gov.sg/653bb02e6705470011fc5206
           - title: Changi General Hospital
-            url: ""
+            url: https://uat.form.gov.sg/653fd0b56705470011feaf7c
           - title: SengKang General Hospital
             url: www.form.gov.sg
           - title: KK Hospital

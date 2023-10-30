@@ -30,7 +30,7 @@ sections:
       subtitle: Your donation matters
       url: /faq/
   - resources:
-      title: Beneficiaries
+      title: Hospitals
       id: resources
       button: all hospitals
 ---
